@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^4.2.1",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^26.6.5"
+  }
+}
